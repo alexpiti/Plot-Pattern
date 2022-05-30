@@ -9,4 +9,4 @@ Two functions are included. Calling thems with no input arguments from the comma
 
 ## MATLAB scripts & data
 
-I am also including a script, **`script_read_LV_radpat.m`**, which reads-in and plots the 2D radiation patterns in E- and H-planes, as recorded by the Lab-Volt/Festo-Didactic "Antenna Training and Measuring System" software ([LVDAM-ANT](https://labvolt.festo.com/solutions/9_telecommunications/69-8092-00_antenna_training_and_measuring_system)) in ASCII-format; a sample half-wavelength antenna pattern is included for testing, in file: **`example_LVradpat_Export.txt`**.
+I am also including a script, **`script_read_LV_radpat.m`**, which reads-in and plots the 2D radiation patterns in E- and H-planes, as recorded in ASCII-format by the Lab-Volt/Festo-Didactic "Antenna Training and Measuring System" software ([LVDAM-ANT](https://labvolt.festo.com/solutions/9_telecommunications/69-8092-00_antenna_training_and_measuring_system)); a sample half-wavelength antenna pattern is included for testing, in file: **`example_LVradpat_Export.txt`**.
