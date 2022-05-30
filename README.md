@@ -1,5 +1,5 @@
 # PlotPattern
-MATLAB functions to plot radiation/scattering patterns in dB-scale, in 2D or 3D.
+MATLAB functions to plot 2D/3D radiation & scattering patterns, intended for antennas & metasurfaces.
 
 Two functions are included. Calling thems with no input arguments from the command window produces example plots.
 1. **plot_2D_Pattern_polar_dB.m** -- Plots in polar-2D and in dB, with a few customizations on the vizualization.
